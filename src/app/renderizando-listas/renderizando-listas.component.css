@@ -1,0 +1,15 @@
+li{
+    margin-bottom: 1rem;
+}
+span{
+    border-radius: 5px;
+    padding: 8px;
+    color: white;
+}
+.esgotado{
+    background-color: black;
+}
+
+.disponivel{
+    background-color: green;
+}
